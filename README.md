@@ -7,3 +7,8 @@ This implementation is the base for the following publications:
 [Springer](https://link.springer.com/chapter/10.1007/978-3-030-48325-8_3)
 
 [CACIC 2019](http://sedici.unlp.edu.ar/bitstream/handle/10915/90463/Documento_completo.pdf-PDFA.pdf?sequence=1&isAllowed=y)
+
+
+
+
+Disclaimer: *The files uploaded in this repository are subject to modifications and might differ slightly from what's presented in the publications*.
