@@ -147,9 +147,8 @@ int main(int argc, char *argv[]){
                     // Calculating (G*m1*m2) separatedly
                     const DATATYPE F = G * masses[i] * masses[j];
 
-                    const DATATYPE d12 = 1.0f/SQRT(dsquared);
                     // Calculating 1/d³ separatedly
-                    const DATATYPE d32 = d12 * d12 * d12;
+                    const DATATYPE d32 = 1/POW(dsquared,3.0f/2.0f);
 
                     // Unit vector x,y,z coordinates
                     // dx/d, dy/d, dz/d
